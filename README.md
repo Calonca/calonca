@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there! Github page of Alessandro La Conca 👋
 
 <!--
 **Calonca/calonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
